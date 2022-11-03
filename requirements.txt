@@ -1,0 +1,6 @@
+matplotlib
+pyrogram
+tgcrypto
+bs4
+lxml
+cloudscraper
